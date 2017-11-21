@@ -4,8 +4,7 @@
 
 #banner {
     background-image: url("../images/kp2.jpg");
-    background-size: cover;
-    background-position: bottom center;
+    background-size: cover;    
     height: 250px;
-    width: 800%;
+    color: deeppink;
 }
