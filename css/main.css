@@ -11,6 +11,7 @@ body {
     background-image: url("../images/kp2.jpg");
     background-size: cover;    
     height: 250px;
+    width: 850px;
     color: deeppink;
     text-align: center;
 }
