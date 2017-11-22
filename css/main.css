@@ -15,3 +15,14 @@ body {
     color: deeppink;
     text-align: center;
 }
+
+
+#cemental {
+    background-image: url("../images/cemental1.jpg");
+    background-size: cover;    
+    height: 1468px;
+    width: 1180px;
+    color: deeppink;
+    opacity: 0.5;
+    
+}
